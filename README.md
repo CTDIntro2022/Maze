@@ -1,4 +1,4 @@
-This javascript code is a translatin and ehancement of the Python code for Harvard X class "CS50's Introduction to Artificial Intelligence with Python". That code is included in this repo but can be found also in this repo: https://github.com/goodboychan/edx/blob/master/Harvard-CS50AI/Search/src0/maze.py. 
+This javascript code is a translation and ehancement of the Python code for Harvard X class "CS50's Introduction to Artificial Intelligence with Python". That code is included in this repo but can be found also in this repo: https://github.com/goodboychan/edx/blob/master/Harvard-CS50AI/Search/src0/maze.py. 
 To run:
 1) Open the grid.html file
 2) Choose a text file which represents a grid. Several are provided in the sub folder "Maze Text Definitions"
